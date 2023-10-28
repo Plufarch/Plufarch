@@ -44,8 +44,80 @@ Let me tell you a bit more about my journey in the world of web development."
   <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 240px;">
 </div>
 
+<div align="center">
+  <h2>👨‍💻 About Me 👨‍💻</h2>
+  <p>I'm a passionate developer with a focus on web development and software engineering. Here's a bit about me:</p>
+
+  - 💼 I work as a Full Stack Developer.
+  - 🌐 I'm experienced in web development with HTML, CSS, JavaScript, and more.
+  - 📚 I'm a continuous learner, always exploring new technologies and frameworks.
+  - 🚀 My goal is to build innovative and user-friendly software solutions.
+  - 📢 I'm an open-source enthusiast and love contributing to the community.
+
+  <h2>💻 Tech Stack 💻</h2>
+  <p>Here are some technologies I work with:</p>
+
+  ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+  <h2>📫 Contact Me 📫</h2>
+  <p>Feel free to reach out:</p>
+
+  - 📧 Email: hamzaljadid155@example.com
 
 
 ![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
-![Image 2](https://i.pinimg.com/564x/20/57/85/205785a9777c45b26cb01aebda74582c.jpg)https://i.pinimg.com/564x/20/57/85/205785a9777c45b26cb01aebda74582c.jpg)
-![Image 3](https://i.pinimg.com/564x/d5/55/70/d55570641365e596961bed7f73c7c85c.jpg)
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background: #000;
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+  h1 {
+            font-size: 3rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+   p {
+            font-size: 1.5rem;
+        }
+
+  .decoration {
+            background: linear-gradient(45deg, #f06, #00c);
+            width: 100%;
+            height: 50px;
+            position: absolute;
+            top: 0;
+            animation: move 4s linear infinite alternate;
+        }
+  @keyframes move {
+    0% {
+        transform: translateX(-100%);
+       }
+          100% {
+                transform: translateX(100%);
+            }
+        }
+   </style>
+</head>
+<body>
+    <div class="decoration"></div>
+    <h1>🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
+    <p>Exploring the technology of tomorrow, today!</p>
+</body>
+</html>
