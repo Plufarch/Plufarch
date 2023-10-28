@@ -65,59 +65,28 @@ Let me tell you a bit more about my journey in the world of web development."
   <h2>📫 Contact Me 📫</h2>
   <p>Feel free to reach out:</p>
 
-  - 📧 Email: hamzaljadid155@example.com
+  - 📧 Email: hamzaljadid155@gmail.com
 
 
 ![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background: #000;
-            color: #fff;
-            font-family: 'Arial', sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
+<h1 align="center">🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
+<p align="center">Exploring the technology of tomorrow, today!</p>
+<div align="center">
+  <div style="background: linear-gradient(45deg, #f06, #00c); width: 100%; height: 5px;"></div>
+</div>
 
-  h1 {
-            font-size: 3rem;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-        }
+<div align="center">
+  <h1 style="color: #2E9AFE; font-size: 36px; font-weight: bold;">🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
+  <p style="color: #848484; font-size: 18px;">Exploring the technology of tomorrow, today!</p>
+  <hr style="border: 0; border-top: 3px solid #00A2E8; width: 50%; margin-top: 20px;">
+</div>
 
-   p {
-            font-size: 1.5rem;
-        }
 
-  .decoration {
-            background: linear-gradient(45deg, #f06, #00c);
-            width: 100%;
-            height: 50px;
-            position: absolute;
-            top: 0;
-            animation: move 4s linear infinite alternate;
-        }
-  @keyframes move {
-    0% {
-        transform: translateX(-100%);
-       }
-          100% {
-                transform: translateX(100%);
-            }
-        }
-   </style>
-</head>
-<body>
-    <div class="decoration"></div>
-    <h1>🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
-    <p>Exploring the technology of tomorrow, today!</p>
-</body>
-</html>
+
+<div align="center">
+  <h1 style="font-size: 48px; color: #3498db; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
+  <p style="font-size: 24px; color: #555; font-style: italic;">Exploring the technology of tomorrow, today!</p>
+  <hr style="border: 0; border-top: 3px solid #3498db; width: 50%; margin-top: 20px;">
+</div>
+
