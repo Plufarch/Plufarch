@@ -59,43 +59,22 @@ Let me tell you a bit more about my journey in the world of web development."
 <!-- Data Analysis Badge -->
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F61?style=for-the-badge&logo=data)
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .container {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    background-color: #000;
-  }
-  .light {
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 50%;
-    animation: glow 2s ease-in-out infinite;
-  }
-  @keyframes glow {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2);
-      opacity: 0.7;
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="light" style="top: 20%; left: 20%;"></div>
-  <div class="light" style="top: 40%; left: 60%;"></div>
+<!-- Technology Badges Section -->
+<div align="center">
+  <h2>🚀 Technologies I Work With 🌐</h2>
+  <p>These are some of the technologies I'm familiar with:</p>
+
+  <!-- JavaScript Badge -->
+  <img src="URL_TO_JAVASCRIPT_BADGE" alt="JavaScript" style="width: 100px; height: 100px;">
+
+  <!-- HTML Badge -->
+  <img src="URL_TO_HTML_BADGE" alt="HTML" style="width: 100px; height: 100px;">
+
+  <!-- CSS Badge -->
+  <img src="URL_TO_CSS_BADGE" alt="CSS" style="width: 100px; height: 100px;">
+
+  <!-- Add more badges for other technologies as needed -->
+
 </div>
-</body>
-</html>
+
 
