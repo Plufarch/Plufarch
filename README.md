@@ -70,4 +70,3 @@ Let me tell you a bit more about my journey in the world of web development."
 
 ![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
 
-
