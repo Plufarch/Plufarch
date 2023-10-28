@@ -18,10 +18,19 @@ Let me tell you a bit more about my journey in the world of web development."
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F61?style=for-the-badge&logo=data)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch=contribs,prs)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h2>🌍 Languages 🌍</h2>
+  <p>Je parle plusieurs langues, incluant:</p>
+  <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French">
+  <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish">
+  <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh">
+  <img src="https://img.shields.io/badge/عربي-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Arabic">
+  <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English">
+</div>
+
