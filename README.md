@@ -24,4 +24,4 @@ Let me tell you a bit more about my journey in the world of web development."
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch_repo=github-readme-stats,anuraghazra.github.io)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
