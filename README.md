@@ -70,23 +70,22 @@ Let me tell you a bit more about my journey in the world of web development."
 
 ![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
 
-<h1 align="center">🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
-<p align="center">Exploring the technology of tomorrow, today!</p>
-<div align="center">
-  <div style="background: linear-gradient(45deg, #f06, #00c); width: 100%; height: 5px;"></div>
-</div>
+<details>
+  <summary>Click to View My Skills</summary>
+  
+  ## HTML
+  - Proficient in HTML5
+  - Semantic markup
+  - HTML forms and validation
 
-<div align="center">
-  <h1 style="color: #2E9AFE; font-size: 36px; font-weight: bold;">🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
-  <p style="color: #848484; font-size: 18px;">Exploring the technology of tomorrow, today!</p>
-  <hr style="border: 0; border-top: 3px solid #00A2E8; width: 50%; margin-top: 20px;">
-</div>
+  ## CSS
+  - CSS3 and modern layout techniques
+  - Flexbox and Grid
+  - CSS frameworks like Bootstrap
 
-
-
-<div align="center">
-  <h1 style="font-size: 48px; color: #3498db; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">🚀 Welcome to My Futuristic GitHub Profile 🌌</h1>
-  <p style="font-size: 24px; color: #555; font-style: italic;">Exploring the technology of tomorrow, today!</p>
-  <hr style="border: 0; border-top: 3px solid #3498db; width: 50%; margin-top: 20px;">
-</div>
+  ## PHP
+  - Server-side scripting
+  - Database interaction with PHP
+  - PHP frameworks like Laravel
+</details>
 
