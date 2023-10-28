@@ -27,10 +27,34 @@ Let me tell you a bit more about my journey in the world of web development."
 <div align="center">
   <h2>🌍 Languages 🌍</h2>
   <p>Je parle plusieurs langues, incluant:</p>
-  <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French" style="width: 320px;">
-  <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish" style="width: 320px;">
-  <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh" style="width: 320px;">
-  <img src="https://img.shields.io/badge/عربي-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt= "Arabic" style="width: 320px;">
-  <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 320px;">
+  <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French" style="width: 240px;">
+  <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish" style="width: 240px;">
+  <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh" style="width: 240px;">
+  <img src="https://img.shields.io/badge/عربي-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt= "Arabic" style="width: 240px;">
+  <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 240px;">
 </div>
 
+<div align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Full Stack & Network Skills Banner">
+  <h2>🚀 Full Stack & Network Skills 🌐</h2>
+  <p>Experienced in various full-stack technologies and network management:</p>
+  
+  ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+  
+  ![Network Configuration](https://img.shields.io/badge/Network%20Configuration-007ACC?style=for-the-badge)
+  ![Firewall Management](https://img.shields.io/badge/Firewall%20Management-47A248?style=for-the-badge)
+  ![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-0078D6?style=for-the-badge)
+</div>
+
+
+<div align="center">
+  <h2>🖼️ My Photos 📸</h2>
+  <p>Here are some photos I'd like to share:</p>
+  
+  <img src="[https://your-image-url.com/photo1.jpg](https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg)" alt="Photo 1" width="300">
+  <img src="[https://your-image-url.com/photo2.jpg](https://i.pinimg.com/564x/5d/c2/3b/5dc23b33abee742bd87824b891ef3594.jpg)" alt="Photo 2" width="300">
+  <img src="[https://your-image-url.com/photo3.jpg](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg" alt="Photo 3" width="300">
+</div>
