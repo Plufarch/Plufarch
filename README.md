@@ -46,11 +46,6 @@ Let me tell you a bit more about my journey in the world of web development."
 
 
 
-<div align="center">
-  <h2>🖼️ My Photos 📸</h2>
-  <p>Here are some photos I'd like to share:</p>
-  
-  <img src="[https://your-image-url.com/photo1.jpg](https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg)" alt="Photo 1" width="300">
-  <img src="[https://your-image-url.com/photo2.jpg](https://i.pinimg.com/564x/5d/c2/3b/5dc23b33abee742bd87824b891ef3594.jpg)" alt="Photo 2" width="300">
-  <img src="[https://your-image-url.com/photo3.jpg](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg" alt="Photo 3" width="300">
-</div>
+![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
+![Image 2](./images/photo2.jpg)
+![Image 3](./images/photo3.jpg)
