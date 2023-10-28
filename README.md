@@ -27,10 +27,10 @@ Let me tell you a bit more about my journey in the world of web development."
 <div align="center">
   <h2>🌍 Languages 🌍</h2>
   <p>Je parle plusieurs langues, incluant:</p>
-  <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French" style="width: 120px;">
-  <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish" style="width: 120px;">
-  <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh" style="width: 120px;">
-  <img src="https://img.shields.io/badge/عربي-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt "Arabic" style="width: 120px;">
-  <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 120px;">
+  <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French" style="width: 320px;">
+  <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish" style="width: 320px;">
+  <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh" style="width: 320px;">
+  <img src="https://img.shields.io/badge/عربي-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt= "Arabic" style="width: 320px;">
+  <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 320px;">
 </div>
 
