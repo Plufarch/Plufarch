@@ -21,6 +21,7 @@ Let me tell you a bit more about my journey in the world of web development."
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch=contribs,prs)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch_repo=github-readme-stats,anuraghazra.github.io)
