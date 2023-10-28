@@ -35,8 +35,8 @@ Let me tell you a bit more about my journey in the world of web development."
 
 
 <div align="center">
-  <h2>🌍 Languages 🌍</h2>
-  <p>Je parle plusieurs langues, incluant:</p>
+  <h1>🌍 Languages 🌍</h1>
+  <h2>Je parle plusieurs langues, incluant:</h2>
   <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French" style="width: 240px;">
   <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish" style="width: 240px;">
   <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh" style="width: 240px;">
