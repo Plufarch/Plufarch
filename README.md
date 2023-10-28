@@ -1,72 +1,23 @@
-### hi there  👋
-###🚀 Welcome to My GitHub Profile 🚀
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7P6NwBVu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NoTMYINSTA ACC) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rider_Knigh6) 
 
-Hi, I'm Hamza, a seasoned Full Stack Developer with five years of experience in the world of web development. I have a passion for technology and a knack for creating user-friendly,
-high-performance web applications. With a strong foundation in both front-end and back-end development, I'm committed to delivering solutions that seamlessly blend functionality and design.
-Let me tell you a bit more about my journey in the world of web development."
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![CHEF](https://img.shields.io/badge/Chef-02303A.svg?style=for-the-badge&logo=Chef&logoColor=white&color=%23F09820) ![CONSUL](https://img.shields.io/badge/consul-F24C53svg?style=for-the-badge&logo=consul&logoColor=white&color=%23F24C53) ![PACKER](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white&color=%2302A8EF) ![LOGSTASH](https://img.shields.io/badge/logstash-005571.svg?style=for-the-badge&logo=logstash) ![SUMOLOGIC](https://img.shields.io/badge/sumologic-000099.svg?style=for-the-badge&logo=sumologic&logoColor=white&color=%23000099) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Plufarch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Plufarch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+---
+[![](https://visitcount.itsvg.in/api?id=Plufarch&icon=0&color=6)](https://visitcount.itsvg.in)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/JUSTTEST) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JUSTTEST) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/JUSTTEST) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/JUSTTEST) 
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F61?style=for-the-badge&logo=data)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
   
-  ![Network Configuration](https://img.shields.io/badge/Network%20Configuration-007ACC?style=for-the-badge)
-  ![Firewall Management](https://img.shields.io/badge/Firewall%20Management-47A248?style=for-the-badge)
-  ![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-0078D6?style=for-the-badge)
-</div>
-
-
-
-
-
-<div align="center">
-  <h1>🌍 Languages 🌍</h1>
-  <h2>Je parle plusieurs langues, incluant:</h2>
-  <img src="https://img.shields.io/badge/Français-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="French" style="width: 240px;">
-  <img src="https://img.shields.io/badge/Español-%23E44D26.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Spanish" style="width: 240px;">
-  <img src="https://img.shields.io/badge/Amazigh-%23D12028.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="Amazigh" style="width: 240px;">
-  <img src="https://img.shields.io/badge/عربي-%230769AD.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt= "Arabic" style="width: 240px;">
-  <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 240px;">
-</div>
-
-<div align="center">
-  <h2>👨‍💻 About Me 👨‍💻</h2>
-  <p>I'm a passionate developer with a focus on web development and software engineering. Here's a bit about me:</p>
-
-  - 💼 I work as a Full Stack Developer.
-  - 🌐 I'm experienced in web development with HTML, CSS, JavaScript, and more.
-  - 📚 I'm a continuous learner, always exploring new technologies and frameworks.
-  - 🚀 My goal is to build innovative and user-friendly software solutions.
-  - 📢 I'm an open-source enthusiast and love contributing to the community.
-
-  <h2>💻 Tech Stack 💻</h2>
-  <p>Here are some technologies I work with:</p>
-
-  ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-  <h2>📫 Contact Me 📫</h2>
-  <p>Feel free to reach out:</p>
-
-  - 📧 Email: hamzaljadid155@gmail.com
-
-
-![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
