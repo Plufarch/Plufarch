@@ -89,3 +89,25 @@ Let me tell you a bit more about my journey in the world of web development."
   - PHP frameworks like Laravel
 </details>
 
+<div align="center">
+  <a href="#skills" style="text-decoration: none; background-color: #3498db; color: #ffffff; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Show My Skills</a>
+</div>
+
+<details id="skills">
+  <summary>Skills</summary>
+  
+  ## HTML
+  - Proficient in HTML5
+  - Semantic markup
+  - HTML forms and validation
+
+  ## CSS
+  - CSS3 and modern layout techniques
+  - Flexbox and Grid
+  - CSS frameworks like Bootstrap
+
+  ## PHP
+  - Server-side scripting
+  - Database interaction with PHP
+  - PHP frameworks like Laravel
+</details>
