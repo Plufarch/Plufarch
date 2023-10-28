@@ -47,5 +47,5 @@ Let me tell you a bit more about my journey in the world of web development."
 
 
 ![Image 1](https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg)
-![Image 2](./images/photo2.jpg)
-![Image 3](./images/photo3.jpg)
+![Image 2](https://i.pinimg.com/564x/20/57/85/205785a9777c45b26cb01aebda74582c.jpg)https://i.pinimg.com/564x/20/57/85/205785a9777c45b26cb01aebda74582c.jpg)
+![Image 3](https://i.pinimg.com/564x/d5/55/70/d55570641365e596961bed7f73c7c85c.jpg)
