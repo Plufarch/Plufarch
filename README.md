@@ -23,6 +23,16 @@ Let me tell you a bit more about my journey in the world of web development."
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plufarch&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plufarch)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ![Network Configuration](https://img.shields.io/badge/Network%20Configuration-007ACC?style=for-the-badge)
+  ![Firewall Management](https://img.shields.io/badge/Firewall%20Management-47A248?style=for-the-badge)
+  ![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-0078D6?style=for-the-badge)
+</div>
+
+
+
+
 
 <div align="center">
   <h2>🌍 Languages 🌍</h2>
@@ -34,20 +44,6 @@ Let me tell you a bit more about my journey in the world of web development."
   <img src="https://img.shields.io/badge/English-%2327A0DB.svg?&style=for-the-badge&logo=flag-icon&logoColor=white" alt="English" style="width: 240px;">
 </div>
 
-<div align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Full Stack & Network Skills Banner">
-  <h2>🚀 Full Stack & Network Skills 🌐</h2>
-  <p>Experienced in various full-stack technologies and network management:</p>
-  
-  ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-  
-  ![Network Configuration](https://img.shields.io/badge/Network%20Configuration-007ACC?style=for-the-badge)
-  ![Firewall Management](https://img.shields.io/badge/Firewall%20Management-47A248?style=for-the-badge)
-  ![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-0078D6?style=for-the-badge)
-</div>
 
 
 <div align="center">
